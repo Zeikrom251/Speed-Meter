@@ -24,9 +24,9 @@
 **5. Speed Calculation :** The analog value from the potentiometer is converted into a speed value based on a defined mapping.
 
 ## Usage
-**1.** Connect the components according to the circuit diagram.
-**2.** Upload the code to you Arduino Uno.
-**3.** Adjust the potentiometer to change the displayed speed.
+- Connect the components according to the circuit diagram.
+- Upload the code to your Arduino Uno.
+- Adjust the potentiometer to change the displayed speed.
 
 ## Circuit Diagram
 ![](https://i.ibb.co/rmj3jPh/arduino-oled.jpg)
