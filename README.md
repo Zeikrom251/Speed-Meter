@@ -13,10 +13,10 @@
 - Adafruit_SSD1306 : A library for SSD1306 based OLED displays.
 
 ## How It Works
-**1. Initialization :** The necessary libraries are included at the begining of the code.
-**2. Display Setup :** The display is set up with its width and height.
-**3. Bitmap Images :** Bitmap images are defined for the background.
-**4. Main Loop :**
+1. **Initialization :** The necessary libraries are included at the begining of the code.
+2. **Display Setup :** The display is set up with its width and height.
+3. **Bitmap Images :** Bitmap images are defined for the background.
+4. **Main Loop :**
   - The main loop initializes the display and clears it.
   - It reads the analog value from the potentiometer.
   - The analog value is mapped to a suitable range for speed display.
